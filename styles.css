@@ -1,21 +1,34 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
+    margin: 20px;
+    
 }
 
 .home-button {
     font-size: 20px;
     color: white;
-    background-color: darkorange;
+    background-color: rgb(50, 100, 192);
 }
 
 h1 {
     font-size: 40px;
-    color: rgb(43, 178, 81);
-    background-color: rgb(2, 75, 15);
+    color: rgb(255, 255, 255);
+    background-color: rgb(50, 100, 192);
+    padding: 20px;
+    margin-right: 430px;
+    
 }
 
 .recipe {
     font-size: 20px;
     font-weight: bold;
-    color: olive;
+    color: rgb(0, 0, 0);
+}
+
+img {
+    margin-left: 0px;
+}
+
+#chefdude {
+    margin-left: 20px;
 }
